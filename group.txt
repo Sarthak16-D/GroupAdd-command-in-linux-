@@ -1,0 +1,6 @@
+abc:x:1234:a,b,c
+pesu:x:900:a,b,c
+abc:x:123:1,2,3
+new_group:x:1000:alpha,beta,gamma
+test:x:12345:a,b,c,d
+yellow:x:0:1,2,3
